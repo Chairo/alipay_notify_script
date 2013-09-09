@@ -5,7 +5,7 @@
 支付宝免费支付接口，在chrome浏览器上运行
 
 演示:
-给yansapjxe@sohu.com支付任意数额资金，在支付后20秒内可以在https://notify.duapp.com    上面看到刚刚支付的记录。
+给yansapjxe@sohu.com支付任意数额资金，在支付后20秒内可以在https://payment.duapp.com/test/log/    上面看到刚刚支付的记录。
 
 使用步骤:
 JS装在chrome的tampermonkey插件下，PHP上传到服务器上，修改好相应代码（特别是交易所用于防攻击的KEY）。
